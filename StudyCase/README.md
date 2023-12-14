@@ -1,3 +1,9 @@
-Ini adalah Jawaban dari Tugas Studi Kasus ke - 1
+> [!NOTE]
+> Ini adalah Jawaban dari Tugas Studi Kasus ke - 1
 
-Link Tugas: [Lihat](https://drive.google.com/drive/folders/1py3hlNHJYTGOSe8k-uWLASP9-VKuIKM-?usp=sharing)
+> Link Tugas: [Lihat](https://drive.google.com/drive/folders/1py3hlNHJYTGOSe8k-uWLASP9-VKuIKM-?usp=sharing)
+
+
+----------------------------
+
+![gambar](https://i.ibb.co/n3T7fyM/1.jpg)

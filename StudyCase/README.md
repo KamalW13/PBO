@@ -5,7 +5,45 @@
 
 
 # Penjelasan
-![gambar](https://i.ibb.co/kDzZSWt/1-1.jpg)
+
+```java
+// Baris 5 - 39
+class Persegi extends BangunDatar{
+    int sisi;
+    
+    Persegi(int inputSisi){
+        this.sisi = inputSisi;
+    }
+    
+    void luas(){
+        int luas = this.sisi * this.sisi;
+        System.out.println(luas);
+    }
+    
+    void keliling(){
+        int keliling = 4 * this.sisi;
+        System.out.println(keliling);
+    }
+}
+
+class Lingkaran extends BangunDatar{
+    int jariJari;
+    
+    Lingkaran(int inputJariJari){
+        this.jariJari = inputJariJari;
+    }
+    
+    void luas(){
+        double luas = 3.14 * this.jariJari * this.jariJari;
+        System.out.println(luas);
+    }
+    
+    void keliling(){
+        double keliling = 3.14 * 2 * this.jariJari;
+        System.out.println(keliling);
+    }
+}
+```
 
 Pada kode diatas kita membuat Class "Persegi" dan "Lingkaran" yang masing-masing didalamnya ada variable untuk di proses pada function/method **luas** dan **keliling**.
 
@@ -14,8 +52,12 @@ Pada kode diatas kita membuat Class "Persegi" dan "Lingkaran" yang masing-masing
 
 ---
 
-
-![gambar](https://i.ibb.co/n3T7fyM/1.jpg)
+```java
+// Baris 1 - 3
+class BangunDatar{
+    
+}
+```
 
 ini adalah isi dari class "BangunDatar", tidak ada apa-apa 😅. Sebenarnya tanpa harus ada kode ini pun masih bisa berjalan, cuma karena diberi tugasnya harus ada pewarisan jadi harus ada.
 

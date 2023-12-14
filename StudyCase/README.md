@@ -1,1 +1,3 @@
-Ini 
+Ini adalah Jawaban dari Tugas Studi Kasus ke - 1
+
+Link Tugas: [Lihat](https://drive.google.com/drive/folders/1py3hlNHJYTGOSe8k-uWLASP9-VKuIKM-?usp=sharing)

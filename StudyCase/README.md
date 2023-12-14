@@ -3,8 +3,8 @@
 
 > Link Tugas: [Lihat](https://drive.google.com/drive/folders/1py3hlNHJYTGOSe8k-uWLASP9-VKuIKM-?usp=sharing)
 
-
-# Penjelasan
+<details>
+    <summary>Penjelasan Code</summary>
 
 ```java
 // Baris 5 - 39
@@ -47,7 +47,6 @@ class Lingkaran extends BangunDatar{
 
 Pada kode diatas kita membuat Class "Persegi" dan "Lingkaran" yang masing-masing didalamnya ada variable untuk di proses pada function/method **luas** dan **keliling**.
 
-> [!NOTE]
 > code "extends BangunDatar" pada masing-masing class disini artinya **Mendapat Warisan dari class BangunDatar/Bangun Datar menjadi Parentnya**
 
 ---
@@ -70,3 +69,6 @@ Ini adalah Class Main-nya, dimana ini adalah tempat program akan dijalankan.
 Pada baris ke 5 & 6 kita membuat object dan menginisialisasi class Lingkaran dan Persegi.
 
 Lalu pada baris ke 8 - 11 kita menjalankan method/function luas dan keliling dari tiap-tiap class
+
+</details>
+

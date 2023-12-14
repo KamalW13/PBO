@@ -72,3 +72,11 @@ Lalu pada baris ke 8 - 11 kita menjalankan method/function luas dan keliling dar
 
 </details>
 
+hasil:
+```
+615.44
+87.92
+196
+56
+```
+

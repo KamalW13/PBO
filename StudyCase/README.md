@@ -6,4 +6,10 @@
 
 ----------------------------
 
+# Penjelasan
+![gambar](https://i.ibb.co/kDzZSWt/1-1.jpg)
+
+
 ![gambar](https://i.ibb.co/n3T7fyM/1.jpg)
+
+
